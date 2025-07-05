@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Jamil</h1>
 
 ## 🙋‍♂️ About Me
-
+- 🔭 I’m currently working as a **Mobile Application Developer**.
 - 🌱 I’m currently learning **Advanced Android**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **ibrahimjamil301@gmail.com**
