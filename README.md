@@ -1,6 +1,6 @@
 
 <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I%27m+Ibrahim+Jamil+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Ibrahim+Jamil+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"/>
     
 </p>
 
