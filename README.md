@@ -38,14 +38,14 @@
 
 ## 🤝 Connect With Me:
 
-- [LinkedIn](https://www.linkedin.com/in/ibrahim-jamil-15a501242/)
+<a href="https://www.linkedin.com/in/ibrahim-jamil-15a501242/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+</a>
 - ✉️ Email: ibrahimjamil301@gmail.com
 
 ## 💜 Views and Followers:
 
-<a href="https://www.linkedin.com/in/ibrahim-jamil-15a501242/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-</a>
+![Profile views](https://komarev.com/ghpvc/?username=ibrahimjamil301&label=Profile%20views&color=0e75b6&style=flat)
 
 [![GitHub followers](https://img.shields.io/github/followers/ibrahimjamil301?label=Follow&style=social)](https://github.com/ibrahimjamil301)
 
