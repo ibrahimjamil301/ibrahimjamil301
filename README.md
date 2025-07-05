@@ -3,6 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Ibrahim+Jamil+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"/>
 </p>
 
+<br><br>
+
+
 
 
 ## 🙋‍♂️ About Me
@@ -19,36 +22,59 @@
 
 ## 🛠️ Languages and Tools:
 
-<p align="left">
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,firebase"/>
     <img src="https://camo.githubusercontent.com/8f75948bda22f5385b43be15628844cf253cca898c77902348c44555a3b72646/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769746875622c616e64726f696473747564696f2c7673636f64652c6669676d612c706f73746d616e"/>
 </p>
 
 ## 📊 My Stats:
 
-<p align="left">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=ibrahimjamil301&show_icons=true&theme=react&hide_border=true&bg_color=00000000"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimjamil301&layout=compact&show_icons=true&theme=react&hide_border=true&bg_color=00000000"/>
-    
 </p>
+
+
+
 
 <p align="left">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
     
 </p>
 
-## 🤝 Connect With Me:
+<br><br>
 
+## 🤝 Connect With Me:
+<p align="center">
 <a href="https://www.linkedin.com/in/ibrahim-jamil-15a501242/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&center=true&vCenter=true" />
 </a>
-- ✉️ Email: ibrahimjamil301@gmail.com
+<a href="mailto:ibrahimjamil301@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white&center=true&vCenter=true" />
+</a>    
+</p>
+
+<br><br>
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+    
+</p>
+
 
 ## 💜 Views and Followers:
 
-![Profile views](https://komarev.com/ghpvc/?username=ibrahimjamil301&label=Profile%20views&color=0e75b6&style=flat)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ibrahimjamil301&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <a href="https://github.com/ibrahimjamil301">
+    <img src="https://img.shields.io/github/followers/ibrahimjamil301?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/ibrahimjamil301?label=Follow&style=social)](https://github.com/ibrahimjamil301)
 
+<p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Thanks+For+Visiting!+❤️"/>
+</p>
 
 
 
