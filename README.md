@@ -38,7 +38,7 @@
 
 ## 🤝 Connect With Me:
 
-- [LinkedIn](https://www.linkedin.com/in/ibrahimjamil301/)
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-jamil-15a501242/)
 - ✉️ Email: ibrahimjamil301@gmail.com
 
 ## 💜 Views and Followers:
