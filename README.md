@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Jamil</h1>
 
-
+<p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ibrahim+Jamil+"/>
+    
+</p>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working as a **Mobile Application Developer**.
