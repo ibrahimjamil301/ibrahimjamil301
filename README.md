@@ -6,7 +6,11 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **ibrahimjamil301@gmail.com**
 
----
+<p align="left">
+    <img src="[https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)"/>
+    
+</p>
+ 
 
 ## 🛠️ Languages and Tools:
 
