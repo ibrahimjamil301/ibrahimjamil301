@@ -24,7 +24,8 @@
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=ibrahimjamil301&show_icons=true&theme=react"/>
-    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimjamil301&layout=compact&theme=react"/>
+
 </p>
 
 
