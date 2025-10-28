@@ -6,13 +6,12 @@
 <br><br>
 
 
-
-
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working as a **Mobile Application Developer**.
-- 🌱 I’m currently learning **Advanced Android**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **ibrahimjamil301@gmail.com**
+- 🔭 I’m currently working as a **Mobile Application Developer**
+- 🌱 I’m learning **Advanced Android Development** with **Jetpack Compose**
+- 👯 I’m open to collaborating on **Open Source Android Projects**
+- 💬 Ask me about **Kotlin, Java, Firebase, and Android Architecture**
+- 📫 Reach me at: **ibrahimjamil301@gmail.com**
 
 <p align="left">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
